@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 006c450e8e77473b83a49c00ee6e5888, type: 3}
+  m_Name: Carroto Seed
+  m_EditorClassIdentifier: 
+  <ItemID>k__BackingField: SEED_CARROTO
+  <Name>k__BackingField: Carroto Seed
+  <Image>k__BackingField: {fileID: 127956516, guid: 30738705ce9e6fb4394897ec90f33201, type: 3}
+  <Rarity>k__BackingField: 0
+  <Vegetable>k__BackingField: {fileID: 11400000, guid: 23b701e9f83d2264c855b72c49cd75f1, type: 2}
+  <MinAmount>k__BackingField: 3
+  <MaxAmount>k__BackingField: 5
+  <DeadImage>k__BackingField: {fileID: -2085503188, guid: 30738705ce9e6fb4394897ec90f33201, type: 3}
+  <GrowthImages>k__BackingField:
+  - {fileID: -1653960883, guid: 30738705ce9e6fb4394897ec90f33201, type: 3}
+  - {fileID: -1763193401, guid: 30738705ce9e6fb4394897ec90f33201, type: 3}
+  - {fileID: -1631120773, guid: 30738705ce9e6fb4394897ec90f33201, type: 3}
+  - {fileID: -1759974264, guid: 30738705ce9e6fb4394897ec90f33201, type: 3}
+  - {fileID: 665468093, guid: 30738705ce9e6fb4394897ec90f33201, type: 3}
+  <GrowthTime>k__BackingField: 5
+  <DeathTime>k__BackingField: 50
