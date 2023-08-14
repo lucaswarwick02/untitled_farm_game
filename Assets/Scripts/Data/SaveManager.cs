@@ -2,6 +2,7 @@
 using System.IO;
 using Newtonsoft.Json;
 using UnityEngine;
+using Utility.Map;
 
 namespace Data
 {
@@ -15,7 +16,7 @@ namespace Data
         
         public static void NewSave()
         {
-            var newSave = new SaveData(Guid.NewGuid().ToString());
+            var newSave = new SaveData(Guid.NewGuid().ToString(), IslandGenerator.GenerateIsland());
             var jsonString = SaveDataToString(newSave);
             var filename = newSave.guid + ".json";
             File.WriteAllText(SavesFolderPath + filename, jsonString);

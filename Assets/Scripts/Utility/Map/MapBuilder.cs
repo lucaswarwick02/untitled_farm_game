@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using Data;
+using UnityEngine;
 using UnityEngine.Tilemaps;
 
 namespace Utility.Map
@@ -17,13 +18,11 @@ namespace Utility.Map
         
         private void Start()
         {
-            var island = IslandGenerator.GenerateIsland();
-
             for (var x = 0; x < IslandGenerator.IslandSize; x++)
             {
                 for (var y = 0; y < IslandGenerator.IslandSize; y++)
                 {
-                    if (island[x, y] == 1) grassTilemap.SetTile(IslandArrayToTilemap(x, y), grassTile);
+                    if (SaveManager.CurrentSave.island[x, y] == 1) grassTilemap.SetTile(IslandArrayToTilemap(x, y), grassTile);
                 }
             }
 

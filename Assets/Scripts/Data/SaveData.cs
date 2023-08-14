@@ -1,5 +1,6 @@
 ﻿using System;
 using ScriptableObjects.Items;
+using Utility.Map;
 
 namespace Data
 {
@@ -7,15 +8,17 @@ namespace Data
     public class SaveData
     {
         public string guid;
+        public string lastSaveTime;
+
+        public int[,] island;
 
         public Inventory inventory;
 
-        public string lastSaveTime;
-
-        public SaveData(string guid)
+        public SaveData(string guid, int[,] island)
         {
             this.guid = guid;
-            this.inventory = new Inventory();
+            inventory = new Inventory();
+            this.island = island;
         }
     }
 }
