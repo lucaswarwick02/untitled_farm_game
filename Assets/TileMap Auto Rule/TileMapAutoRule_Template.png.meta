@@ -1,7 +1,154 @@
 fileFormatVersion: 2
-guid: 0cc30b037c469f841bf00f40c31b2a16
+guid: e19831432e91f7946ba7f21ae7a77aa6
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TileMapAutoRule_Template_0
+  - first:
+      213: 21300002
+    second: TileMapAutoRule_Template_1
+  - first:
+      213: 21300004
+    second: TileMapAutoRule_Template_2
+  - first:
+      213: 21300006
+    second: TileMapAutoRule_Template_3
+  - first:
+      213: 21300008
+    second: TileMapAutoRule_Template_4
+  - first:
+      213: 21300010
+    second: TileMapAutoRule_Template_5
+  - first:
+      213: 21300012
+    second: TileMapAutoRule_Template_6
+  - first:
+      213: 21300014
+    second: TileMapAutoRule_Template_7
+  - first:
+      213: 21300016
+    second: TileMapAutoRule_Template_8
+  - first:
+      213: 21300018
+    second: TileMapAutoRule_Template_9
+  - first:
+      213: 21300020
+    second: TileMapAutoRule_Template_10
+  - first:
+      213: 21300022
+    second: TileMapAutoRule_Template_11
+  - first:
+      213: 21300024
+    second: TileMapAutoRule_Template_12
+  - first:
+      213: 21300026
+    second: TileMapAutoRule_Template_13
+  - first:
+      213: 21300028
+    second: TileMapAutoRule_Template_14
+  - first:
+      213: 21300030
+    second: TileMapAutoRule_Template_15
+  - first:
+      213: 21300032
+    second: TileMapAutoRule_Template_16
+  - first:
+      213: 21300034
+    second: TileMapAutoRule_Template_17
+  - first:
+      213: 21300036
+    second: TileMapAutoRule_Template_18
+  - first:
+      213: 21300038
+    second: TileMapAutoRule_Template_19
+  - first:
+      213: 21300040
+    second: TileMapAutoRule_Template_20
+  - first:
+      213: 21300042
+    second: TileMapAutoRule_Template_21
+  - first:
+      213: 21300044
+    second: TileMapAutoRule_Template_22
+  - first:
+      213: 21300046
+    second: TileMapAutoRule_Template_23
+  - first:
+      213: 21300048
+    second: TileMapAutoRule_Template_24
+  - first:
+      213: 21300050
+    second: TileMapAutoRule_Template_25
+  - first:
+      213: 21300052
+    second: TileMapAutoRule_Template_26
+  - first:
+      213: 21300054
+    second: TileMapAutoRule_Template_27
+  - first:
+      213: 21300056
+    second: TileMapAutoRule_Template_28
+  - first:
+      213: 21300058
+    second: TileMapAutoRule_Template_29
+  - first:
+      213: 21300060
+    second: TileMapAutoRule_Template_30
+  - first:
+      213: 21300062
+    second: TileMapAutoRule_Template_31
+  - first:
+      213: 21300064
+    second: TileMapAutoRule_Template_32
+  - first:
+      213: 21300066
+    second: TileMapAutoRule_Template_33
+  - first:
+      213: 21300068
+    second: TileMapAutoRule_Template_34
+  - first:
+      213: 21300070
+    second: TileMapAutoRule_Template_35
+  - first:
+      213: 21300072
+    second: TileMapAutoRule_Template_36
+  - first:
+      213: 21300074
+    second: TileMapAutoRule_Template_37
+  - first:
+      213: 21300076
+    second: TileMapAutoRule_Template_38
+  - first:
+      213: 21300078
+    second: TileMapAutoRule_Template_39
+  - first:
+      213: 21300080
+    second: TileMapAutoRule_Template_40
+  - first:
+      213: 21300082
+    second: TileMapAutoRule_Template_41
+  - first:
+      213: 21300084
+    second: TileMapAutoRule_Template_42
+  - first:
+      213: 21300086
+    second: TileMapAutoRule_Template_43
+  - first:
+      213: 21300088
+    second: TileMapAutoRule_Template_44
+  - first:
+      213: 21300090
+    second: TileMapAutoRule_Template_45
+  - first:
+      213: 21300092
+    second: TileMapAutoRule_Template_46
+  - first:
+      213: 21300094
+    second: TileMapAutoRule_Template_47
+  - first:
+      213: 21300096
+    second: TileMapAutoRule_Template_48
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -63,9 +210,9 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 0
+  applyGammaDecoding: 1
   swizzle: 50462976
-  cookieLightType: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -79,38 +226,38 @@ TextureImporter:
     overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
     buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Grass_New_0
+      name: TileMapAutoRule_Template_0
       rect:
         serializedVersion: 2
         x: 0
@@ -124,14 +271,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f67d9dcb4bea3d4fad18cb98aff07f0
-      internalID: 1861515538
+      spriteID: 127d62cf9311b4642b9c80f43df4f082
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_1
+      name: TileMapAutoRule_Template_1
       rect:
         serializedVersion: 2
         x: 16
@@ -145,14 +292,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1105f65fe2604354f8dfcb04db267ac7
-      internalID: 1921427269
+      spriteID: 18e5987cf48f52142955cb5f3ed61a8e
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_2
+      name: TileMapAutoRule_Template_2
       rect:
         serializedVersion: 2
         x: 32
@@ -166,14 +313,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d4336c4f0b5eed49a53ebfc799898b0
-      internalID: -1141902785
+      spriteID: 7b7c02110f1527244844ed7f4d2a79f4
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_3
+      name: TileMapAutoRule_Template_3
       rect:
         serializedVersion: 2
         x: 48
@@ -187,14 +334,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2fba176bfa9881d43bdf32df77c08f52
-      internalID: 120646941
+      spriteID: 68e80caa3d7671641a32fb69bd292c30
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_4
+      name: TileMapAutoRule_Template_4
       rect:
         serializedVersion: 2
         x: 64
@@ -208,14 +355,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3d515c67ea588342b246d4683c993f5
-      internalID: -1855223989
+      spriteID: d1112fefd029da2488847253a9822945
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_5
+      name: TileMapAutoRule_Template_5
       rect:
         serializedVersion: 2
         x: 80
@@ -229,14 +376,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48a9a14fd62330040a304fa2e5eb765a
-      internalID: -1310277057
+      spriteID: 419f00915eb75e544980bdc20f5fb34a
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_6
+      name: TileMapAutoRule_Template_6
       rect:
         serializedVersion: 2
         x: 96
@@ -250,14 +397,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2bf04a529feed2a45a27bd5ab7933766
-      internalID: 1836362417
+      spriteID: 22be4fae2c069954a916b905de40751c
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_7
+      name: TileMapAutoRule_Template_7
       rect:
         serializedVersion: 2
         x: 0
@@ -271,14 +418,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c17ce34f178dcec4a9170a2e5e873e6d
-      internalID: -1872201630
+      spriteID: 4c45742b5b71cb4499a3594c0f199a5c
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_8
+      name: TileMapAutoRule_Template_8
       rect:
         serializedVersion: 2
         x: 16
@@ -292,14 +439,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0527e9e9baba50e408c7c857f2c16841
-      internalID: 21806812
+      spriteID: 7a458e56f2188cb44bdeeaa5bcfa790a
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_9
+      name: TileMapAutoRule_Template_9
       rect:
         serializedVersion: 2
         x: 32
@@ -313,14 +460,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ed7c219ebc0773478f2b74f05f4f5d9
-      internalID: 47815669
+      spriteID: d11720edcaba8144cb0842265f2fa137
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_10
+      name: TileMapAutoRule_Template_10
       rect:
         serializedVersion: 2
         x: 48
@@ -334,14 +481,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7bfd58f7db45fe344bd9c3008b652aed
-      internalID: -304319110
+      spriteID: 0dd4af0b279d7224ca97d9b837505eb9
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_11
+      name: TileMapAutoRule_Template_11
       rect:
         serializedVersion: 2
         x: 64
@@ -355,14 +502,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10d8ae0881f29d74e9cc188bd7c21347
-      internalID: 271474110
+      spriteID: efb43589d18d2ec4fbef0bce7752d26d
+      internalID: 21300022
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_12
+      name: TileMapAutoRule_Template_12
       rect:
         serializedVersion: 2
         x: 80
@@ -376,14 +523,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9eb4ec86198c7ff42842aa2f1887d2e5
-      internalID: -564621953
+      spriteID: 16e39a77e01ab884c9d7baf8152c982a
+      internalID: 21300024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_13
+      name: TileMapAutoRule_Template_13
       rect:
         serializedVersion: 2
         x: 96
@@ -397,14 +544,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1afb7b502a5aa774c8d583a30ebf56bf
-      internalID: -1532320285
+      spriteID: e6a0ea9707ef4254587b70731abf02e4
+      internalID: 21300026
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_14
+      name: TileMapAutoRule_Template_14
       rect:
         serializedVersion: 2
         x: 0
@@ -418,14 +565,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca9545dc8af64214d9c8f0e0cd51cc69
-      internalID: -1232907879
+      spriteID: c7f5515c990169549863e344e6de1f04
+      internalID: 21300028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_15
+      name: TileMapAutoRule_Template_15
       rect:
         serializedVersion: 2
         x: 16
@@ -439,14 +586,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01b1b36c112bcc1488d1df3f8795cb32
-      internalID: -241534983
+      spriteID: 42e3fe264ab1a8446bfa9c1f249970b1
+      internalID: 21300030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_16
+      name: TileMapAutoRule_Template_16
       rect:
         serializedVersion: 2
         x: 32
@@ -460,14 +607,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d01fc5898d5024e45a6bfb0aec6fa3cb
-      internalID: -280420618
+      spriteID: ccdef8c4459f59e4ca340348ec9475f6
+      internalID: 21300032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_17
+      name: TileMapAutoRule_Template_17
       rect:
         serializedVersion: 2
         x: 48
@@ -481,14 +628,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c17c74b204462a4193794b63b2db80f
-      internalID: -150015711
+      spriteID: b59f5c5b92547a34598539002d7a00e1
+      internalID: 21300034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_18
+      name: TileMapAutoRule_Template_18
       rect:
         serializedVersion: 2
         x: 64
@@ -502,14 +649,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a97babe0313c9544bb9597db1725e54
-      internalID: -609189212
+      spriteID: 2fcca2dd2b838ab4392b84854585d4ee
+      internalID: 21300036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_19
+      name: TileMapAutoRule_Template_19
       rect:
         serializedVersion: 2
         x: 80
@@ -523,14 +670,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7db5f094419ca9e428876eb251341c74
-      internalID: 481110824
+      spriteID: 69a8b9e116a87c443aaf62861715b2ab
+      internalID: 21300038
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_20
+      name: TileMapAutoRule_Template_20
       rect:
         serializedVersion: 2
         x: 96
@@ -544,14 +691,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2d62041311992542ab5886585d5d3aa
-      internalID: -1261217742
+      spriteID: 15673b21e785d674bb3040aaac1bb789
+      internalID: 21300040
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_21
+      name: TileMapAutoRule_Template_21
       rect:
         serializedVersion: 2
         x: 0
@@ -565,14 +712,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 323b60a3c93d4a24abbb3637a2b301e0
-      internalID: 364709963
+      spriteID: 35011b99086dac84e9df13bdda089ce3
+      internalID: 21300042
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_22
+      name: TileMapAutoRule_Template_22
       rect:
         serializedVersion: 2
         x: 16
@@ -586,14 +733,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5424d8eb29d5b148b921a49c82b5f0c
-      internalID: 539510641
+      spriteID: a4be5197fae90124fa3bb337b54205cc
+      internalID: 21300044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_23
+      name: TileMapAutoRule_Template_23
       rect:
         serializedVersion: 2
         x: 32
@@ -607,14 +754,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20766b6de74e34543944da02ff2e2ef6
-      internalID: -676051804
+      spriteID: 95740b808e71bd84593fcffe82c2f1f4
+      internalID: 21300046
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_24
+      name: TileMapAutoRule_Template_24
       rect:
         serializedVersion: 2
         x: 48
@@ -628,14 +775,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 749dac21675bb074f8207e66bb528b3d
-      internalID: -1113840267
+      spriteID: 91c71284017cd944fae91c77a65de856
+      internalID: 21300048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_25
+      name: TileMapAutoRule_Template_25
       rect:
         serializedVersion: 2
         x: 64
@@ -649,14 +796,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d5827b3e41901d41bde951c59d111c2
-      internalID: 763596920
+      spriteID: fb442c3ab761cc4478ed1d02983a1b8e
+      internalID: 21300050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_26
+      name: TileMapAutoRule_Template_26
       rect:
         serializedVersion: 2
         x: 80
@@ -670,14 +817,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab650ec07ccf0204cadfc9746063aee4
-      internalID: 301567
+      spriteID: 705191007d097434c835d4a666f4cb88
+      internalID: 21300052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_27
+      name: TileMapAutoRule_Template_27
       rect:
         serializedVersion: 2
         x: 96
@@ -691,14 +838,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c00c1e5cfaf421f43a5ace6881b6a44f
-      internalID: -1405924548
+      spriteID: d0996d0c9e2f2944d9e844f6f36e23fb
+      internalID: 21300054
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_28
+      name: TileMapAutoRule_Template_28
       rect:
         serializedVersion: 2
         x: 0
@@ -712,14 +859,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 294eafa0ee37a9c4e8f3a28f9b6968ef
-      internalID: -1449200309
+      spriteID: 282a73c984e75fc4a8c901976946f501
+      internalID: 21300056
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_29
+      name: TileMapAutoRule_Template_29
       rect:
         serializedVersion: 2
         x: 16
@@ -733,14 +880,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c34f81ceac5c81c42b4569cc6d39c3d2
-      internalID: -767579814
+      spriteID: 0480b716e2eb18f49a22653ed530d837
+      internalID: 21300058
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_30
+      name: TileMapAutoRule_Template_30
       rect:
         serializedVersion: 2
         x: 32
@@ -754,14 +901,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b04efd5bca254374eb15a4819443b070
-      internalID: -423416340
+      spriteID: bcf15d587f99f60458431efdfbb2d7f6
+      internalID: 21300060
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_31
+      name: TileMapAutoRule_Template_31
       rect:
         serializedVersion: 2
         x: 48
@@ -775,14 +922,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 40f307c8f5898a545a6e44e8567ca6d8
-      internalID: -2020093529
+      spriteID: c0c54fa49b6feb54e8a0f45172352101
+      internalID: 21300062
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_32
+      name: TileMapAutoRule_Template_32
       rect:
         serializedVersion: 2
         x: 64
@@ -796,14 +943,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e7a40a1d7a1553a4f88e273c92a12a12
-      internalID: -298902029
+      spriteID: 462196ff555a2bd4bb0e41829ad6b005
+      internalID: 21300064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_33
+      name: TileMapAutoRule_Template_33
       rect:
         serializedVersion: 2
         x: 80
@@ -817,14 +964,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e738169a3cc501342920906e96c5bedd
-      internalID: -1469105858
+      spriteID: 2339fb4110e25034983c3a486c1ac0a0
+      internalID: 21300066
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_34
+      name: TileMapAutoRule_Template_34
       rect:
         serializedVersion: 2
         x: 96
@@ -838,14 +985,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33f2a8601fa7f434eb7556d917fe494e
-      internalID: 853137569
+      spriteID: 2d5c1ca8cfe4ab547879a6cee1df6a9d
+      internalID: 21300068
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_35
+      name: TileMapAutoRule_Template_35
       rect:
         serializedVersion: 2
         x: 0
@@ -859,14 +1006,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 307a65c725de72e4d89e6c829334368d
-      internalID: -1931698315
+      spriteID: 4e1f18540f4e89f4195994260c7fb148
+      internalID: 21300070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_36
+      name: TileMapAutoRule_Template_36
       rect:
         serializedVersion: 2
         x: 16
@@ -880,14 +1027,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 804177b0e2755ff45b9ffa1df9aaa17b
-      internalID: -96244768
+      spriteID: eed0f6ae4a5e2a44c8fb236a5c5c9f08
+      internalID: 21300072
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_37
+      name: TileMapAutoRule_Template_37
       rect:
         serializedVersion: 2
         x: 32
@@ -901,14 +1048,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e03f2318af2c4114289db80da8f5949e
-      internalID: -1451547572
+      spriteID: 620299791575e5844b9d6f4a10f56089
+      internalID: 21300074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_38
+      name: TileMapAutoRule_Template_38
       rect:
         serializedVersion: 2
         x: 48
@@ -922,14 +1069,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 551bc5fd7fe1ed84ba401281970dcaed
-      internalID: -1626435720
+      spriteID: 2cdb20682ed7b6747a30c1ae6a0e90f2
+      internalID: 21300076
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_39
+      name: TileMapAutoRule_Template_39
       rect:
         serializedVersion: 2
         x: 64
@@ -943,14 +1090,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d85dbc61060afa4cbf1783eb7bd59fe
-      internalID: -435931626
+      spriteID: 1dfb1ca9d2ac9ea47abba2d405d6e77b
+      internalID: 21300078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_40
+      name: TileMapAutoRule_Template_40
       rect:
         serializedVersion: 2
         x: 80
@@ -964,14 +1111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85840c1440f1e64489aa4acd1705cdcf
-      internalID: 115502517
+      spriteID: 9a0d0eb35ba376548b7903b94ecaf474
+      internalID: 21300080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_41
+      name: TileMapAutoRule_Template_41
       rect:
         serializedVersion: 2
         x: 96
@@ -985,14 +1132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d2225f504e3b6914dafbd3d1c872469b
-      internalID: -2029943144
+      spriteID: 9357d43860347ab4e8e9e4c8804454a4
+      internalID: 21300082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_42
+      name: TileMapAutoRule_Template_42
       rect:
         serializedVersion: 2
         x: 0
@@ -1006,14 +1153,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45b247c6bc12743409f8338e1f66e8fc
-      internalID: 804871238
+      spriteID: 1cff049f6df88fc48bc60c21080ae510
+      internalID: 21300084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_43
+      name: TileMapAutoRule_Template_43
       rect:
         serializedVersion: 2
         x: 16
@@ -1027,14 +1174,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eccb215501ab52d4cae9cb7c59433778
-      internalID: -1063846385
+      spriteID: 235cb0c65f28c2a44bb0a9552cbebc84
+      internalID: 21300086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_44
+      name: TileMapAutoRule_Template_44
       rect:
         serializedVersion: 2
         x: 32
@@ -1048,14 +1195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce269a924241a7041b31991f155a63ee
-      internalID: -653915548
+      spriteID: 072d8d6af39eecd4290dbf665e1ee33c
+      internalID: 21300088
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_45
+      name: TileMapAutoRule_Template_45
       rect:
         serializedVersion: 2
         x: 48
@@ -1069,14 +1216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 374108bd6f0f24f448b5a8910c873d7f
-      internalID: 465703765
+      spriteID: 739e5a236306b604b98ed26e17b9662a
+      internalID: 21300090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_46
+      name: TileMapAutoRule_Template_46
       rect:
         serializedVersion: 2
         x: 64
@@ -1090,14 +1237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc1396cfdbbae1b46a2e5ab6c05cf8b3
-      internalID: 611108976
+      spriteID: 7f9d1f851260b7a498145477970dc3ee
+      internalID: 21300092
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_47
+      name: TileMapAutoRule_Template_47
       rect:
         serializedVersion: 2
         x: 80
@@ -1111,14 +1258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0154e54e1fe0fe9429124ba508457845
-      internalID: -775761997
+      spriteID: 2dcd1319485ddc94f9428336e91b5599
+      internalID: 21300094
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Grass_New_48
+      name: TileMapAutoRule_Template_48
       rect:
         serializedVersion: 2
         x: 96
@@ -1132,8 +1279,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7f4650246e36364a9e01275fb785392
-      internalID: -1857366197
+      spriteID: 45a75b55d89b33f43bb6cf02622c5955
+      internalID: 21300096
       vertices: []
       indices: 
       edges: []
@@ -1141,7 +1288,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: d92407b527c68824b85441e73e03cd94
     internalID: 0
     vertices: []
     indices: 
@@ -1149,55 +1296,55 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Grass_New_0: 1861515538
-      Grass_New_1: 1921427269
-      Grass_New_10: -304319110
-      Grass_New_11: 271474110
-      Grass_New_12: -564621953
-      Grass_New_13: -1532320285
-      Grass_New_14: -1232907879
-      Grass_New_15: -241534983
-      Grass_New_16: -280420618
-      Grass_New_17: -150015711
-      Grass_New_18: -609189212
-      Grass_New_19: 481110824
-      Grass_New_2: -1141902785
-      Grass_New_20: -1261217742
-      Grass_New_21: 364709963
-      Grass_New_22: 539510641
-      Grass_New_23: -676051804
-      Grass_New_24: -1113840267
-      Grass_New_25: 763596920
-      Grass_New_26: 301567
-      Grass_New_27: -1405924548
-      Grass_New_28: -1449200309
-      Grass_New_29: -767579814
-      Grass_New_3: 120646941
-      Grass_New_30: -423416340
-      Grass_New_31: -2020093529
-      Grass_New_32: -298902029
-      Grass_New_33: -1469105858
-      Grass_New_34: 853137569
-      Grass_New_35: -1931698315
-      Grass_New_36: -96244768
-      Grass_New_37: -1451547572
-      Grass_New_38: -1626435720
-      Grass_New_39: -435931626
-      Grass_New_4: -1855223989
-      Grass_New_40: 115502517
-      Grass_New_41: -2029943144
-      Grass_New_42: 804871238
-      Grass_New_43: -1063846385
-      Grass_New_44: -653915548
-      Grass_New_45: 465703765
-      Grass_New_46: 611108976
-      Grass_New_47: -775761997
-      Grass_New_48: -1857366197
-      Grass_New_5: -1310277057
-      Grass_New_6: 1836362417
-      Grass_New_7: -1872201630
-      Grass_New_8: 21806812
-      Grass_New_9: 47815669
+      TileMapAutoRule_Template_0: 21300000
+      TileMapAutoRule_Template_1: 21300002
+      TileMapAutoRule_Template_10: 21300020
+      TileMapAutoRule_Template_11: 21300022
+      TileMapAutoRule_Template_12: 21300024
+      TileMapAutoRule_Template_13: 21300026
+      TileMapAutoRule_Template_14: 21300028
+      TileMapAutoRule_Template_15: 21300030
+      TileMapAutoRule_Template_16: 21300032
+      TileMapAutoRule_Template_17: 21300034
+      TileMapAutoRule_Template_18: 21300036
+      TileMapAutoRule_Template_19: 21300038
+      TileMapAutoRule_Template_2: 21300004
+      TileMapAutoRule_Template_20: 21300040
+      TileMapAutoRule_Template_21: 21300042
+      TileMapAutoRule_Template_22: 21300044
+      TileMapAutoRule_Template_23: 21300046
+      TileMapAutoRule_Template_24: 21300048
+      TileMapAutoRule_Template_25: 21300050
+      TileMapAutoRule_Template_26: 21300052
+      TileMapAutoRule_Template_27: 21300054
+      TileMapAutoRule_Template_28: 21300056
+      TileMapAutoRule_Template_29: 21300058
+      TileMapAutoRule_Template_3: 21300006
+      TileMapAutoRule_Template_30: 21300060
+      TileMapAutoRule_Template_31: 21300062
+      TileMapAutoRule_Template_32: 21300064
+      TileMapAutoRule_Template_33: 21300066
+      TileMapAutoRule_Template_34: 21300068
+      TileMapAutoRule_Template_35: 21300070
+      TileMapAutoRule_Template_36: 21300072
+      TileMapAutoRule_Template_37: 21300074
+      TileMapAutoRule_Template_38: 21300076
+      TileMapAutoRule_Template_39: 21300078
+      TileMapAutoRule_Template_4: 21300008
+      TileMapAutoRule_Template_40: 21300080
+      TileMapAutoRule_Template_41: 21300082
+      TileMapAutoRule_Template_42: 21300084
+      TileMapAutoRule_Template_43: 21300086
+      TileMapAutoRule_Template_44: 21300088
+      TileMapAutoRule_Template_45: 21300090
+      TileMapAutoRule_Template_46: 21300092
+      TileMapAutoRule_Template_47: 21300094
+      TileMapAutoRule_Template_48: 21300096
+      TileMapAutoRule_Template_5: 21300010
+      TileMapAutoRule_Template_6: 21300012
+      TileMapAutoRule_Template_7: 21300014
+      TileMapAutoRule_Template_8: 21300016
+      TileMapAutoRule_Template_9: 21300018
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: db17c6e49e90bdd42b958461adb62712
+guid: 465d4d5836fe23a4385afce0f306ba66
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,238 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TiledDirt_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c78c9f05d04f1e43b29d8e77ffdd9b7
-      internalID: 1293321468
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TiledDirt_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ebad94c15d9bbb547befd93a35779b8e
-      internalID: 1736007475
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TiledDirt_2
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5d9ca8c3690d2544cb122cbd3cd8dcb5
-      internalID: -860981320
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TiledDirt_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9a1f8390a7904bd4db06ab4f57bbd895
-      internalID: 2012713075
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TiledDirt_4
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 92bf3b659b699ca42b2dc370a025f174
-      internalID: -1283100612
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TiledDirt_5
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e2ddacd3dd28bc6449012f122ebba5be
-      internalID: 1841179965
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TiledDirt_6
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a9cc800bc37658d43b8b2b0cbac63a73
-      internalID: 1178137930
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TiledDirt_7
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6dd5642231c2fc742b9b79b103baaea2
-      internalID: -248483281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TiledDirt_8
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 69d45f92a8efd6e479e9f8eef68be6b2
-      internalID: 1273427864
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TiledDirt_9
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1e1c2384b0eaca84887668ad22f4a369
-      internalID: -977601076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TiledDirt_10
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b1f6fbdb2f101449a668acc5cba6ced
-      internalID: 326285178
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TiledDirt_11
+      name: TilledDirt_Varients_0
       rect:
         serializedVersion: 2
         x: 0
@@ -355,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee9fedc96c20f604f8002fab17943fb1
-      internalID: -1135446174
+      spriteID: 66b6a024f1c6bee42a74126dad1a5094
+      internalID: -35444855
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TiledDirt_12
+      name: TilledDirt_Varients_1
       rect:
         serializedVersion: 2
         x: 16
@@ -376,14 +145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99a10552bc4945044b302bf1f0b304d5
-      internalID: 1492781717
+      spriteID: a699c0f56a3ec2c439a94b5b16b61add
+      internalID: 853878234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TiledDirt_13
+      name: TilledDirt_Varients_2
       rect:
         serializedVersion: 2
         x: 32
@@ -397,14 +166,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1ae066ad45b145c4ebb7b21303956d5a
-      internalID: 1449717871
+      spriteID: 742db50a3ff25b54c8d61039dba86c4b
+      internalID: -1789675831
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TiledDirt_14
+      name: TilledDirt_Varients_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba230fcb74cd8a4c94c13afa687daa7
+      internalID: 977276683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilledDirt_Varients_4
       rect:
         serializedVersion: 2
         x: 0
@@ -418,14 +208,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 611cdddb37a71d64ca684c7249a9839e
-      internalID: -570814091
+      spriteID: eabca90b94420b240afe2bdc1fec180e
+      internalID: 1730114278
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TiledDirt_15
+      name: TilledDirt_Varients_5
       rect:
         serializedVersion: 2
         x: 16
@@ -439,14 +229,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8dbade25d2f8104da10251641bc23a2
-      internalID: -837779801
+      spriteID: 3c4d286b2a58b184fb158d1e7738e0b8
+      internalID: -18191791
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TiledDirt_16
+      name: TilledDirt_Varients_6
       rect:
         serializedVersion: 2
         x: 32
@@ -460,14 +250,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ed741eea89fd4b448b3ff0e23a1ed73f
-      internalID: -42261179
+      spriteID: 9b1cf49e5122a0045a65d8e37f1e7948
+      internalID: 1799732198
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TiledDirt_17
+      name: TilledDirt_Varients_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ac8500c2112f84290c287d1774d338
+      internalID: 588902987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilledDirt_Varients_8
       rect:
         serializedVersion: 2
         x: 0
@@ -481,14 +292,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c1edbbb230d4264b9f3bd8cdaabd72b
-      internalID: -1332183782
+      spriteID: 3bae0600dabb0f643bac86ab4bf4ddfe
+      internalID: 2035914873
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TiledDirt_18
+      name: TilledDirt_Varients_9
       rect:
         serializedVersion: 2
         x: 16
@@ -502,14 +313,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6004ceefea990414a9efc6560d5f35cf
-      internalID: -1454907038
+      spriteID: 8823dd1e90a0ac14f8c802fe6e012cf6
+      internalID: 622150940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TiledDirt_19
+      name: TilledDirt_Varients_10
       rect:
         serializedVersion: 2
         x: 32
@@ -523,14 +334,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 539997b4ed903b04b9584a39ae84206b
-      internalID: 350349106
+      spriteID: b75514a3213bf9346aec5238b8030e88
+      internalID: -1075159000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TiledDirt_20
+      name: TilledDirt_Varients_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97bc7d1c5e703946b143a7f73a2d2f8
+      internalID: 127192547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilledDirt_Varients_12
       rect:
         serializedVersion: 2
         x: 0
@@ -544,14 +376,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91fd50c04d7d4b147ba73f1b723c4df5
-      internalID: -1208864827
+      spriteID: a9aca9d1ac49a9d4ab1dd0e809cb56b8
+      internalID: -209195766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TiledDirt_21
+      name: TilledDirt_Varients_13
       rect:
         serializedVersion: 2
         x: 16
@@ -565,14 +397,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b38b406f51e73b949bede72b374a6b5b
-      internalID: -1658409236
+      spriteID: 085e1619d08de9c428eedda0267656a8
+      internalID: 1740615373
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TiledDirt_22
+      name: TilledDirt_Varients_14
       rect:
         serializedVersion: 2
         x: 32
@@ -586,8 +418,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 002204937d6acf546ad6ea770b0ffb77
-      internalID: 1191440729
+      spriteID: 7f4da27a2aa8f4b4694166861eae6253
+      internalID: 1442038982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TilledDirt_Varients_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85505c0af3e51d4e895a0fcea042e84
+      internalID: 2040235229
       vertices: []
       indices: 
       edges: []
@@ -603,29 +456,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TiledDirt_0: 1293321468
-      TiledDirt_1: 1736007475
-      TiledDirt_10: 326285178
-      TiledDirt_11: -1135446174
-      TiledDirt_12: 1492781717
-      TiledDirt_13: 1449717871
-      TiledDirt_14: -570814091
-      TiledDirt_15: -837779801
-      TiledDirt_16: -42261179
-      TiledDirt_17: -1332183782
-      TiledDirt_18: -1454907038
-      TiledDirt_19: 350349106
-      TiledDirt_2: -860981320
-      TiledDirt_20: -1208864827
-      TiledDirt_21: -1658409236
-      TiledDirt_22: 1191440729
-      TiledDirt_3: 2012713075
-      TiledDirt_4: -1283100612
-      TiledDirt_5: 1841179965
-      TiledDirt_6: 1178137930
-      TiledDirt_7: -248483281
-      TiledDirt_8: 1273427864
-      TiledDirt_9: -977601076
+      TilledDirt_Varients_0: -35444855
+      TilledDirt_Varients_1: 853878234
+      TilledDirt_Varients_10: -1075159000
+      TilledDirt_Varients_11: 127192547
+      TilledDirt_Varients_12: -209195766
+      TilledDirt_Varients_13: 1740615373
+      TilledDirt_Varients_14: 1442038982
+      TilledDirt_Varients_15: 2040235229
+      TilledDirt_Varients_2: -1789675831
+      TilledDirt_Varients_3: 977276683
+      TilledDirt_Varients_4: 1730114278
+      TilledDirt_Varients_5: -18191791
+      TilledDirt_Varients_6: 1799732198
+      TilledDirt_Varients_7: 588902987
+      TilledDirt_Varients_8: 2035914873
+      TilledDirt_Varients_9: 622150940
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
